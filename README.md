@@ -3,15 +3,11 @@
 <h3 align="center">Computer science&Sociology HSE student from Russia 🇷🇺</h3>
 
 <div id="socials" align="center">
-<a href="linkedin-url">
-<img src="https://img. shields. io/badge/LinkedIn-blue?style=for-the-
-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="[twitter-url](https://vk.com/vladeno4ka)">
+<img src="https://img. shields. io/badge/VK-blue?style=for-the-
+badge&logo=vk&logoColor=white" alt="Vkontacte"/>
 </a>
-<a href="twitter-url">
-<img src="https://img. shields. io/badge/Twitter-blue?style=for-the-
-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="telegram-url">
+<a href="[telegram-url](https://t.me/podkovko_05)">
 <img src="https://img. shields. io/badge/Telegram-blue?style=for-the-
 badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
