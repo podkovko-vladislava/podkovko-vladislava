@@ -24,9 +24,11 @@
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="css" width="40" height="40"/>
 
+    <link rel="stylesheet" type='text/css' href="
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          " />
           
 <!--
 **podkovko-vladislava/podkovko-vladislava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
