@@ -20,6 +20,7 @@
 - I won the All-Russian contest "Big Change" twice
 - I speak Russian and English
 
+<hr>
 
 ### Languages and tools
 <!DOCTYPE html>
@@ -43,6 +44,8 @@
     </div>
 </body>
 </html>
+
+<hr>
 
 ### My stat
 <div id="stat" align="center">
