@@ -12,13 +12,13 @@
 </div>
 
 ### About me
-I'm currently learning **Data Science and Analytics**
-Know about my experiences [CV] (https://disk.yandex.ru/i/aT9NCr37tjR6cA)
-I am a student at **School 21**
-The average score at the **Higher School of Economics is 9.2**
-I participated in the **Alfa Bank (twice), T-Bank, T2 and Cup Russia 2025** case championships
-I won the All-Russian contest "Big Change" twice
-I speak Russian and English
+- I'm currently learning **Data Science and Analytics**
+- Know about my experiences [CV](https://disk.yandex.ru/i/aT9NCr37tjR6cA)
+- I am a student at **School 21**
+- The average score at the **Higher School of Economics is 9.2**
+- I participated in the **Alfa Bank (twice), T-Bank, T2 and Cup Russia 2025** case championships
+- I won the All-Russian contest "Big Change" twice
+- I speak Russian and English
 
 
 <!--
