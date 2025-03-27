@@ -44,24 +44,20 @@
 </body>
 </html>
 
-
 ### My stat
 <div id="stat" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
-username=vn7n24fzkq&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-common-language?
-username=vn7n24fzkq&theme=github_dark"/>
-<img src="https://github-profile-summmary-cards.vercel.app/api/cards/stats?
-username=vn7n24fzkq&theme=github_dark"/>
+    <!-- Профиль -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=podkovko-vladislava&theme=github_dark"/>
+    
+    <!-- Самые используемые языки -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=podkovko-vladislava&theme=github_dark"/>
+    
+    <!-- Статистика -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=podkovko-vladislava&theme=github_dark"/>
 </div>
-
           
 
           
-          
-                   
-
- 
 <!--
 **podkovko-vladislava/podkovko-vladislava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
