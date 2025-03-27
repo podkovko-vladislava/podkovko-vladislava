@@ -26,19 +26,6 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title></title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            gap: 10px; 
-        }
-        
-        .container img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
