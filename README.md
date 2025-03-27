@@ -48,10 +48,8 @@
 <div id="stat" align="center">
     <!-- Профиль -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=podkovko-vladislava&theme=github_dark"/>
-    
     <!-- Самые используемые языки -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=podkovko-vladislava&theme=github_dark"/>
-    
     <!-- Статистика -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=podkovko-vladislava&theme=github_dark"/>
 </div>
